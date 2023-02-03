@@ -1,4 +1,0 @@
-<?PHP
-
-WELCOME TO MEMISOFT
-?>
